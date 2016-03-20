@@ -2,7 +2,7 @@
 This container is built from ubuntu:15.10, (68 MB Before Flatification) at the moment
 
 # What is in this image
-Inline ```
+```
 Sending build context to Docker daemon 3.072 kB
 Step 1 : FROM ubuntu:15.10
  ---> 3b9cbe897315
