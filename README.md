@@ -2,7 +2,7 @@
 This container is built from ubuntu:15.10, (68 MB Before Flatification) at the moment
 
 # What is in this image
-Inline `
+Inline ```
 Sending build context to Docker daemon 3.072 kB
 Step 1 : FROM ubuntu:15.10
  ---> 3b9cbe897315
@@ -39,5 +39,4 @@ Step 11 : CMD /bin/bash
  ---> 6847111270db
 Removing intermediate container ea593f054024
 Successfully built 6847111270db
-
-`
+```
