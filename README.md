@@ -1,8 +1,10 @@
 # docker-ubuntu15.10
-This container is built from ubuntu:15.10, (68 MB Before Flatification) at the moment
+My Ubuntu boilerplate image that forms the base for my docker containers. This container is built from ubuntu:15.10, (68 MB Before Flatification) at the time of this writing.
 
 # What is in this image
 ```
+Dockerfile to build a ubuntu:14.04 baseimage with a couple of extra packages.
+
 Sending build context to Docker daemon 3.072 kB
 Step 1 : FROM ubuntu:15.10
  ---> 3b9cbe897315
